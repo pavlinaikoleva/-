@@ -1,0 +1,31 @@
+ITFuture
+Stefan
+Vasil Levski
+3
+m
+Kalina
+A.Malinov
+1256321568
+20.01.2009
+Kalina
+master programmer
+satelit
+satelit
+IOS
+j
+Pavlina
+Gvardejska
+9704167554
+19.04.2009
+Kalina
+junior programmer
+compas
+t
+Aleksandar
+Slivnica
+5674132589
+22.10.2017
+Pavlina
+tester
+Closure
+Windows
